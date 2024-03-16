@@ -1,7 +1,7 @@
 <p>Course Code: CSE 162<br>
 Course Title: Object Oriented Programming Sessional</p>
 <p>Submitted by:<br>
-Md. Istiak Ahmed Mitul<br>
+Md. Istiuk Ahmed Mitul<br>
 Student ID: 2202119</p>
 <p>Sadik Islam Udoy<br>
 Student ID: 2202103</p>
