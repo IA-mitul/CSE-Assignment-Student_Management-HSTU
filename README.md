@@ -7,8 +7,6 @@ Student ID: 2202119</p>
 Student ID: 2202103</p>
 <p>Azizur Rahman<br>
 Student ID: 2202106</p>
-<p>Ahmedul Alam<br>
-Student ID: 2202146</p>
 <p>
   Submitted To:<br>
   Pankaj Bhowmik<br>
